@@ -29,6 +29,7 @@ function displayData(data) {
 }
 
 // Search and Filter Function
+// Search and Filter Function
 function filterData() {
     const searchText = searchInput.value.toLowerCase();
     const ovenSetting = ovenSettingFilter.value;
@@ -36,7 +37,7 @@ function filterData() {
 
     const filteredData = allData.filter(item => {
         const matchesName = item["Retail Line"].toLowerCase().includes(searchText);
-        const matchesOven = ovenSetting ? item["Oven Setting"] === ovenSetting : true;
+        const matchesOven = ovenSetting ? item["Oven Setting"].toString() === ovenSetting : true;
         const matchesShelfLife = shelfLife ? item["Shelf Life (Days)"].toString() === shelfLife : true;
 
         return matchesName && matchesOven && matchesShelfLife;
