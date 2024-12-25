@@ -2,9 +2,61 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bakery Data Filter</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+<div class="container my-4">
+    <h1 class="text-center mb-4">Bakery Item Finder</h1>
 
+    <!-- Search Bar -->
+    <div class="row mb-3">
+        <div class="col-md-6">
+            <input id="searchInput" type="text" class="form-control" placeholder="Search by Name">
+        </div>
+        <div class="col-md-3">
+            <select id="ovenSettingFilter" class="form-select">
+                <option value="">Filter by Oven Setting</option>
+                <option value="06">06</option>
+                <option value="10">10</option>
+                <option value="44">44</option>
+                <option value="51">51</option>
+                <option value="Defrost*">Defrost*</option>
+            </select>
+        </div>
+        <div class="col-md-3">
+            <select id="shelfLifeFilter" class="form-select">
+                <option value="">Filter by Shelf Life (Days)</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="6">6</option>
+                <option value="14">14</option>
+            </select>
+        </div>
+    </div>
+
+    <!-- Data Table -->
+    <div class="table-responsive">
+        <table class="table table-bordered table-striped">
+            <thead class="table-dark">
+            <tr>
+                <th>Name</th>
+                <th>Forecast Qty</th>
+                <th>Shelf Life (Days)</th>
+                <th>Oven Setting</th>
+            </tr>
+            </thead>
+            <tbody id="dataTable">
+            <!-- Data will be dynamically loaded here -->
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<script src="js/script.js"></script>
 </body>
 </html>
