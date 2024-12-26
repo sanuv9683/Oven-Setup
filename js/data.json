@@ -406,5 +406,173 @@
         "Forecast Qty": 2,
         "Shelf Life (Days)": 1,
         "Oven Setting": 44
+    },
+    {
+        "Retail Line": "Co-op Comp Sausage Breakfast Roll EACH",
+        "Forecast Qty": 2,
+        "Oven Setting": "09",
+        "Shelf Life": "03"
+    },
+    {
+        "Retail Line": "Rollover Breakfast Muffin EACH",
+        "Forecast Qty": 1,
+        "Oven Setting": "14",
+        "Shelf Life": "04"
+    },
+    {
+        "Retail Line": "Co-op Sausage & Bean Slice EACH",
+        "Forecast Qty": 1,
+        "Oven Setting": "51",
+        "Shelf Life": "04"
+    },
+    {
+        "Retail Line": "Co-op Sausage Roll EACH",
+        "Forecast Qty": 2,
+        "Oven Setting": "51",
+        "Shelf Life": "03"
+    },
+    {
+        "Retail Line": "Co-op Bacon & Cheese Turnover EACH",
+        "Forecast Qty": 3,
+        "Oven Setting": "51",
+        "Shelf Life": "04"
+    },
+    {
+        "Retail Line": "Co-op Breakfast Wrap EACH",
+        "Forecast Qty": 1,
+        "Oven Setting": "72",
+        "Shelf Life": "03"
+    },
+    {
+        "Retail Line": "Co-op Sausage Egg and Cheese Muffin EACH",
+        "Forecast Qty": 1,
+        "Oven Setting": "72",
+        "Shelf Life": "03"
+    },
+    {
+        "Retail Line": "Co-op Hash Browns EACH",
+        "Forecast Qty": 1,
+        "Oven Setting": "74",
+        "Shelf Life": "04"
+    },
+    {
+        "Retail Line": "Rollover Classic Hot Dog 90G",
+        "Forecast Qty": 1,
+        "Oven Setting": "Bain-Marie",
+        "Shelf Life": "04"
+    },
+    {
+        "Retail Line": "Rollover Breakfast Hot Dog 95G",
+        "Forecast Qty": 1,
+        "Oven Setting": "Bain-Marie",
+        "Shelf Life": "04"
+    },
+    {
+        "Retail Line": "Rollover Chicken Nuggets EACH",
+        "Forecast Qty": 2,
+        "Oven Setting": "08",
+        "Shelf Life": "02"
+    },
+    {
+        "Retail Line": "Chicago Town Takeaway Pepperoni Stuffed Crust EACH",
+        "Forecast Qty": 2,
+        "Oven Setting": "09",
+        "Shelf Life": "04"
+    },
+    {
+        "Retail Line": "Rollover Southern Fried Chicken Burger EACH",
+        "Forecast Qty": 2,
+        "Oven Setting": "10",
+        "Shelf Life": "04"
+    },
+    {
+        "Retail Line": "Co-op Cheese & Onion Slice EACH",
+        "Forecast Qty": 2,
+        "Oven Setting": "51",
+        "Shelf Life": "04"
+    },
+    {
+        "Retail Line": "Co-op Sausage & Bean Slice EACH",
+        "Forecast Qty": 2,
+        "Oven Setting": "51",
+        "Shelf Life": "04"
+    },
+    {
+        "Retail Line": "Co-op Steak Slice EACH",
+        "Forecast Qty": 2,
+        "Oven Setting": "51",
+        "Shelf Life": "04"
+    },
+    {
+        "Retail Line": "Co-op Sausage Roll EACH",
+        "Forecast Qty": 2,
+        "Oven Setting": "51",
+        "Shelf Life": "04"
+    },
+    {
+        "Retail Line": "Co-op Bacon & Cheese Turnover EACH",
+        "Forecast Qty": 2,
+        "Oven Setting": "51",
+        "Shelf Life": "04"
+    },
+    {
+        "Retail Line": "Co-op Festive Slice EACH",
+        "Forecast Qty": 4,
+        "Oven Setting": "51",
+        "Shelf Life": "04"
+    },
+    {
+        "Retail Line": "Co-op Chicken and Chorizo Slice EACH",
+        "Forecast Qty": 2,
+        "Oven Setting": "72",
+        "Shelf Life": "03"
+    },
+    {
+        "Retail Line": "Co-op Ham and Cheese Toastie EACH",
+        "Forecast Qty": 1,
+        "Oven Setting": "72",
+        "Shelf Life": "03"
+    },
+    {
+        "Retail Line": "Co-op Chicken Fajita Wrap EACH",
+        "Forecast Qty": 1,
+        "Oven Setting": "72",
+        "Shelf Life": "03"
+    },
+    {
+        "Retail Line": "WC Rowes Cornish Pasty EACH",
+        "Forecast Qty": 2,
+        "Oven Setting": "74",
+        "Shelf Life": "04"
+    },
+    {
+        "Retail Line": "Co-op Mini Vegetable Samosas 23G",
+        "Forecast Qty": 2,
+        "Oven Setting": "74",
+        "Shelf Life": "04"
+    },
+    {
+        "Retail Line": "Co-op Potato Wedges EACH",
+        "Forecast Qty": 2,
+        "Oven Setting": "74",
+        "Shelf Life": "04"
+    },
+    {
+        "Retail Line": "Co-op Southern Fried Goujons EACH",
+        "Forecast Qty": 2,
+        "Oven Setting": "Bain-Marie",
+        "Shelf Life": "04"
+    },
+    {
+        "Retail Line": "Rollover Classic Hot Dog 90G",
+        "Forecast Qty": 2,
+        "Oven Setting": "Bain-Marie",
+        "Shelf Life": "04"
+    },
+    {
+        "Retail Line": "Rollover Cheeseburger EACH",
+        "Forecast Qty": 2,
+        "Oven Setting": "Bain-Marie",
+        "Shelf Life": "04"
     }
 ]
