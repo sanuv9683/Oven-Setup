@@ -3,62 +3,57 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Oven Setup Finder</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
+    <title>Oven Products Filter</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        body {
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        table {
+            margin-top: 20px;
+        }
+    </style>
 </head>
 <body>
-<div class="container my-4">
-    <h1 class="text-center mb-4">Oven Setup Finder</h1>
+<div class="container">
+    <h1 class="text-center my-4">Oven Products Filter</h1>
 
-    <!-- Search Bar -->
-    <div class="row mb-3">
-        <div class="col-md-6 mb-1">
-            <input id="searchInput" type="text" class="form-control" placeholder="Search by Name">
+    <!-- Filter Section -->
+    <div class="row g-3 mb-4">
+        <div class="col-md-4">
+            <input type="text" id="searchInput" class="form-control" placeholder="Search by Product Name">
         </div>
-        <div class="col-md-3 mb-1">
-            <select id="ovenSettingFilter" class="form-select">
-                <option value="">Filter by Oven Setting</option>
-                <option value="6">06</option>
-                <option value="10">10</option>
-                <option value="44">44</option>
-                <option value="51">51</option>
-                <option value="74">74</option>
-                <option value="Defrost*">Defrost</option>
-                <option value="Bain-Marie">Bain-Marie</option>
+        <div class="col-md-4">
+            <select id="shelfLifeFilter" class="form-select">
+                <option value="">Filter by Shelf Life</option>
             </select>
         </div>
-        <div class="col-md-3">
-            <select id="shelfLifeFilter" class="form-select">
-                <option value="">Filter by Shelf Life (Days)</option>
-                <option value="1">1</option>
-                <option value="2">2</option>
-                <option value="3">3</option>
-                <option value="4">4</option>
-                <option value="6">6</option>
-                <option value="14">14</option>
+        <div class="col-md-4">
+            <select id="ovenSettingFilter" class="form-select">
+                <option value="">Filter by Oven Setting</option>
             </select>
         </div>
     </div>
 
     <!-- Data Table -->
     <div class="table-responsive">
-        <table class="table table-bordered table-striped">
+        <table class="table table-striped table-bordered">
             <thead class="table-dark">
             <tr>
-                <th>Name</th>
-                <th>Forecast Qty</th>
-                <th>Shelf Life (Days)</th>
+                <th>Retail Line</th>
+                <th>Shelf Life</th>
                 <th>Oven Setting</th>
             </tr>
             </thead>
             <tbody id="dataTable">
-            <!-- Data will be dynamically loaded here -->
+            <!-- Dynamic Rows -->
             </tbody>
         </table>
     </div>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 <script src="js/script.js"></script>
 </body>
 </html>

@@ -1,52 +1,74 @@
-// Load JSON Data
-const dataUrl = 'js/data.json'; // Replace with your JSON file path
+// Fetch data from data.json
+let data = [];
 
-let allData = [];
-const dataTable = document.getElementById('dataTable');
-const searchInput = document.getElementById('searchInput');
-const ovenSettingFilter = document.getElementById('ovenSettingFilter');
-const shelfLifeFilter = document.getElementById('shelfLifeFilter');
-
-// Fetch data and initialize
-fetch(dataUrl)
+fetch('js/data.json')
     .then(response => response.json())
-    .then(data => {
-        allData = data;
-        displayData(allData);
+    .then(jsonData => {
+        data = jsonData;
+        initializeFilters();
+        renderTable(data);
     })
-    .catch(error => console.error('Error loading JSON:', error));
+    .catch(error => console.error('Error fetching data:', error));
 
-// Display Data
-function displayData(data) {
-    dataTable.innerHTML = data.map(item => `
-    <tr>
-      <td>${item["Retail Line"]}</td>
-      <td>${item["Forecast Qty"]}</td>
-      <td>${item["Shelf Life (Days)"]}</td>
-      <td>${item["Oven Setting"]}</td>
-    </tr>
-  `).join('');
-}
+// DOM Elements
+const dataTable = document.getElementById("dataTable");
+const shelfLifeFilter = document.getElementById("shelfLifeFilter");
+const ovenSettingFilter = document.getElementById("ovenSettingFilter");
 
-// Search and Filter Function
-// Search and Filter Function
-function filterData() {
-    const searchText = searchInput.value.toLowerCase();
-    const ovenSetting = ovenSettingFilter.value;
-    const shelfLife = shelfLifeFilter.value;
+// Initialize Filters
+function initializeFilters() {
+    // Get unique values for filters
+    const uniqueShelfLife = [...new Set(data.map(item => item["Shelf Life"]))];
+    const uniqueOvenSettings = [...new Set(data.map(item => item["Oven Setting"]))];
 
-    const filteredData = allData.filter(item => {
-        const matchesName = item["Retail Line"].toLowerCase().includes(searchText);
-        const matchesOven = ovenSetting ? item["Oven Setting"].toString() === ovenSetting : true;
-        const matchesShelfLife = shelfLife ? item["Shelf Life (Days)"].toString() === shelfLife : true;
-
-        return matchesName && matchesOven && matchesShelfLife;
+    // Populate Shelf Life Filter
+    uniqueShelfLife.forEach(shelfLife => {
+        const option = document.createElement("option");
+        option.value = shelfLife;
+        option.textContent = shelfLife;
+        shelfLifeFilter.appendChild(option);
     });
 
-    displayData(filteredData);
+    // Populate Oven Setting Filter
+    uniqueOvenSettings.forEach(ovenSetting => {
+        const option = document.createElement("option");
+        option.value = ovenSetting;
+        option.textContent = ovenSetting;
+        ovenSettingFilter.appendChild(option);
+    });
 }
 
-// Event Listeners
-searchInput.addEventListener('input', filterData);
-ovenSettingFilter.addEventListener('change', filterData);
-shelfLifeFilter.addEventListener('change', filterData);
+// Render Table
+function renderTable(filteredData) {
+    dataTable.innerHTML = "";
+    filteredData.forEach(item => {
+        const row = `
+      <tr>
+        <td>${item["Retail Line"]}</td>
+        <td>${item["Shelf Life"]}</td>
+        <td>${item["Oven Setting"]}</td>
+      </tr>`;
+        dataTable.insertAdjacentHTML("beforeend", row);
+    });
+}
+
+// Filters
+document.getElementById("searchInput").addEventListener("input", filterTable);
+shelfLifeFilter.addEventListener("change", filterTable);
+ovenSettingFilter.addEventListener("change", filterTable);
+
+// Filter Function
+function filterTable() {
+    const searchValue = document.getElementById("searchInput").value.toLowerCase();
+    const shelfLifeValue = shelfLifeFilter.value;
+    const ovenSettingValue = ovenSettingFilter.value;
+
+    const filteredData = data.filter(item => {
+        const matchesSearch = item["Retail Line"].toLowerCase().includes(searchValue);
+        const matchesShelfLife = !shelfLifeValue || item["Shelf Life"] === shelfLifeValue;
+        const matchesOvenSetting = !ovenSettingValue || item["Oven Setting"] == ovenSettingValue;
+        return matchesSearch && matchesShelfLife && matchesOvenSetting;
+    });
+
+    renderTable(filteredData);
+}
