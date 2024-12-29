@@ -1,578 +1,482 @@
 [
     {
         "Retail Line": "Co-op Chocolate Ball Doughnuts 4PACK",
-        "Forecast Qty": 2,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 6
     },
     {
         "Retail Line": "Co-op Mediterranean Focaccia EACH",
-        "Forecast Qty": 2,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 6
     },
     {
         "Retail Line": "Co-op Sugared Ring Doughnut 4PACK",
-        "Forecast Qty": 3,
-        "Shelf Life (Days)": 2,
+        "Shelf Life": "2 Day",
         "Oven Setting": 6
     },
     {
         "Retail Line": "Co-op Jam Ball Doughnut 4PACK",
-        "Forecast Qty": 3,
-        "Shelf Life (Days)": 2,
+        "Shelf Life": "2 Day",
         "Oven Setting": 6
     },
     {
         "Retail Line": "Co-op Custard Ball Doughnuts 4PACK",
-        "Forecast Qty": 3,
-        "Shelf Life (Days)": 2,
+        "Shelf Life": "2 Day",
         "Oven Setting": 6
     },
     {
         "Retail Line": "Co-op Pain Au Chocolate NOS EACH",
-        "Forecast Qty": 5,
-        "Shelf Life (Days)": 2,
-        "Oven Setting": 6
+        "Shelf Life": "1 Day",
+        "Oven Setting": 10
     },
     {
         "Retail Line": "Co-op Irresistible All Butter Croissant NOS EACH",
-        "Forecast Qty": 17,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 10
     },
     {
         "Retail Line": "Co-op Maple & Pecan Plait EACH",
-        "Forecast Qty": 5,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 10
     },
     {
         "Retail Line": "Co-op Pain Au Raisin EACH",
-        "Forecast Qty": 6,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 10
     },
     {
         "Retail Line": "Co-op Cinnamon Swirl EACH",
-        "Forecast Qty": 7,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 10
     },
     {
         "Retail Line": "Co-op Vanilla Custard Crown with Nuts EACH",
-        "Forecast Qty": 2,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 10
     },
     {
         "Retail Line": "Co-op Apple Crown with Almond Danish Pastry EACH",
-        "Forecast Qty": 3,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 10
     },
     {
         "Retail Line": "Co-op Cheese and Tomato Pizza Swirly EACH",
-        "Forecast Qty": 2,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 10
     },
     {
         "Retail Line": "Co-op Portuguese Custard Tart EACH",
-        "Forecast Qty": 2,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 10
     },
     {
         "Retail Line": "Co-op Chocolate Hazelnut Croissant NOS EACH",
-        "Forecast Qty": 12,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 10
     },
     {
         "Retail Line": "Co-op Cheese Twist EACH",
-        "Forecast Qty": 5,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 10
     },
     {
         "Retail Line": "Co-op Chocolate Twist EACH",
-        "Forecast Qty": 5,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 10
     },
     {
         "Retail Line": "Co-op Almond Croissant EACH",
-        "Forecast Qty": 11,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 10
     },
     {
         "Retail Line": "Co-op Shortcrust Mince Pies 189G",
-        "Forecast Qty": 3,
-        "Shelf Life (Days)": 14,
+        "Shelf Life": "14 Day",
         "Oven Setting": 10
     },
     {
         "Retail Line": "Co-op Irresistible Deep Mince Pies with Kentish Apple Cider 2PACK",
-        "Forecast Qty": 2,
-        "Shelf Life (Days)": 14,
+        "Shelf Life": "14 Day",
         "Oven Setting": 10
     },
     {
         "Retail Line": "Co-op Mince Puff Pastry Pie 4EACH",
-        "Forecast Qty": 1,
-        "Shelf Life (Days)": 2,
+        "Shelf Life": "2 Day",
         "Oven Setting": 13
     },
     {
         "Retail Line": "Co-op Irresistible Triple Chocolate Cookie 4S",
-        "Forecast Qty": 2,
-        "Shelf Life (Days)": 4,
+        "Shelf Life": "4 Day",
         "Oven Setting": 15
     },
     {
         "Retail Line": "Co-op Milk Chocolate Chip Cookie 5S",
-        "Forecast Qty": 2,
-        "Shelf Life (Days)": 4,
+        "Shelf Life": "4 Day",
         "Oven Setting": 15
     },
     {
         "Retail Line": "Co-op White Chocolate Cookie 5S",
-        "Forecast Qty": 3,
-        "Shelf Life (Days)": 4,
+        "Shelf Life": "4 Day",
         "Oven Setting": 15
     },
     {
         "Retail Line": "Co-op Irresistible Milk Chocolate Cookie 4S",
-        "Forecast Qty": 2,
-        "Shelf Life (Days)": 4,
+        "Shelf Life": "4 Day",
         "Oven Setting": 15
     },
     {
         "Retail Line": "Co-op Double Choc Cookie PMP 5S",
-        "Forecast Qty": 2,
-        "Shelf Life (Days)": 4,
+        "Shelf Life": "4 Day",
         "Oven Setting": 15
     },
     {
         "Retail Line": "Co-op Christmas Elf Cookie 5PK",
-        "Forecast Qty": 1,
-        "Shelf Life (Days)": 4,
+        "Shelf Life": "4 Day",
         "Oven Setting": 15
     },
     {
         "Retail Line": "Co-op White Crusty Batched Rolls NOS EACH",
-        "Forecast Qty": 5,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 44
     },
     {
         "Retail Line": "Co-op White Rustic Roll NOS EACH",
-        "Forecast Qty": 4,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 44
     },
     {
         "Retail Line": "Co-op Tiger Baton PMP 200G",
-        "Forecast Qty": 5,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 44
     },
     {
         "Retail Line": "Co-op Pumpkin & Sunflower Seed Square Roll EACH",
-        "Forecast Qty": 4,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 44
     },
     {
         "Retail Line": "Co-op Crusty White Cob 400G PMP EACH",
-        "Forecast Qty": 3,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 44
     },
     {
         "Retail Line": "Co-op Salt & Pepper Roll EACH",
-        "Forecast Qty": 4,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 44
     },
     {
         "Retail Line": "Co-op Petit Pain EACH",
-        "Forecast Qty": 7,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 44
     },
     {
         "Retail Line": "Co-op Irresistible Sourdough Baguette EACH",
-        "Forecast Qty": 3,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 44
     },
     {
         "Retail Line": "Co-op White Parisian 360G EACH",
-        "Forecast Qty": 11,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 44
     },
     {
         "Retail Line": "Co-op Demi Baguette EACH",
-        "Forecast Qty": 6,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 44
     },
     {
         "Retail Line": "Co-op Baton EACH",
-        "Forecast Qty": 4,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 44
     },
     {
         "Retail Line": "Co-op Irresistible Ancient Grains Bloomer EACH",
-        "Forecast Qty": 3,
-        "Shelf Life (Days)": 2,
+        "Shelf Life": "2 Day",
         "Oven Setting": 44
     },
     {
         "Retail Line": "Co-op Irresistible Sourdough Bloomer EACH",
-        "Forecast Qty": 3,
-        "Shelf Life (Days)": 2,
+        "Shelf Life": "2 Day",
         "Oven Setting": 44
     },
     {
         "Retail Line": "Co-op Irresistible Green and Kalamata Olive Bloomer EACH",
-        "Forecast Qty": 3,
-        "Shelf Life (Days)": 2,
+        "Shelf Life": "2 Day",
         "Oven Setting": 44
     },
     {
         "Retail Line": "Co-op Cheese & Jalapeno Sourdough Bloomer EACH",
-        "Forecast Qty": 2,
-        "Shelf Life (Days)": 2,
+        "Shelf Life": "2 Day",
         "Oven Setting": 44
     },
     {
         "Retail Line": "Co-op 5 SAUSAGE ROLLS 5PACK",
-        "Forecast Qty": 2,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 51
     },
     {
         "Retail Line": "Co-op 5 Festive Sausage Rolls 5EACH",
-        "Forecast Qty": 2,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 51
     },
     {
         "Retail Line": "Co-op Pretzel EACH",
-        "Forecast Qty": 3,
-        "Shelf Life (Days)": 1,
-        "Oven Setting": 51
+        "Shelf Life": "1 Day",
+        "Oven Setting": "Defrost"
     },
     {
         "Retail Line": "Co-op Single Serve Loaded Brownie EACH",
-        "Forecast Qty": 2,
-        "Shelf Life (Days)": 1,
-        "Oven Setting": "Defrost*"
+        "Shelf Life": "1 Day",
+        "Oven Setting": "Defrost"
     },
     {
         "Retail Line": "Cadbury Caramel Doughnut 2S",
-        "Forecast Qty": 1,
-        "Shelf Life (Days)": 1,
-        "Oven Setting": "Defrost*"
+        "Shelf Life": "2 Day",
+        "Oven Setting": "Defrost"
     },
     {
         "Retail Line": "Oreo Doughnut 2S",
-        "Forecast Qty": 1,
-        "Shelf Life (Days)": 1,
-        "Oven Setting": "Defrost*"
+        "Shelf Life": "2 Day",
+        "Oven Setting": "Defrost"
     },
     {
         "Retail Line": "Co-op Yum Yum 4S",
-        "Forecast Qty": 2,
-        "Shelf Life (Days)": 1,
-        "Oven Setting": "Defrost*"
+        "Shelf Life": "2 Day",
+        "Oven Setting": "Defrost"
     },
     {
         "Retail Line": "Co-op White Iced Ring Doughnut 4S",
-        "Forecast Qty": 3,
-        "Shelf Life (Days)": 1,
-        "Oven Setting": "Defrost*"
+        "Shelf Life": "2 Day",
+        "Oven Setting": "Defrost"
     },
     {
         "Retail Line": "Co-op Christmas Iced Ring Doughnut RGW 4PK",
-        "Forecast Qty": 2,
-        "Shelf Life (Days)": 1,
-        "Oven Setting": "Defrost*"
+        "Shelf Life": "2 Day",
+        "Oven Setting": "Defrost"
     },
     {
         "Retail Line": "Co-op Cinnamon Bun 2PACK",
-        "Forecast Qty": 2,
-        "Shelf Life (Days)": 3,
-        "Oven Setting": "Defrost*"
+        "Shelf Life": "3 Day",
+        "Oven Setting": "Defrost"
     },
     {
         "Retail Line": "Pop Dots Filled Strawberry Sensation 5S",
-        "Forecast Qty": 1,
-        "Shelf Life (Days)": 3,
-        "Oven Setting": "Defrost*"
+        "Shelf Life": "3 Day",
+        "Oven Setting": "Defrost"
     },
     {
         "Retail Line": "Pop Dots Filled Triple Chocolate 5S",
-        "Forecast Qty": 1,
-        "Shelf Life (Days)": 3,
-        "Oven Setting": "Defrost*"
+        "Shelf Life": "3 Day",
+        "Oven Setting": "Defrost"
     },
     {
         "Retail Line": "Pop Dots Christmas Sprinkles 5PACK",
-        "Forecast Qty": 1,
-        "Shelf Life (Days)": 3,
-        "Oven Setting": "Defrost*"
+        "Shelf Life": "3 Day",
+        "Oven Setting": "Defrost"
     },
     {
         "Retail Line": "Co-op Belgian Buns 2S",
-        "Forecast Qty": 2,
-        "Shelf Life (Days)": 4,
-        "Oven Setting": "Defrost*"
+        "Shelf Life": "4 Day",
+        "Oven Setting": "Defrost"
     },
     {
         "Retail Line": "Co-op White Scotch Rolls 4S",
-        "Forecast Qty": 2,
-        "Shelf Life (Days)": 4,
-        "Oven Setting": "Defrost*"
+        "Shelf Life": "4 Day",
+        "Oven Setting": "Defrost"
     },
     {
         "Retail Line": "Co-op Brown Scotch Rolls 4S",
-        "Forecast Qty": 2,
-        "Shelf Life (Days)": 4,
-        "Oven Setting": "Defrost*"
+        "Shelf Life": "4 Day",
+        "Oven Setting": "Defrost"
     },
     {
         "Retail Line": "Co-op Iced White Fingers 4PACK",
-        "Forecast Qty": 2,
-        "Shelf Life (Days)": 4,
-        "Oven Setting": "Defrost*"
+        "Shelf Life": "4 Day",
+        "Oven Setting": "Defrost"
     },
     {
         "Retail Line": "Co-op Blueberry Muffins 4PK",
-        "Forecast Qty": 1,
-        "Shelf Life (Days)": 4,
-        "Oven Setting": "Defrost*"
+        "Shelf Life": "4 Day",
+        "Oven Setting": "Defrost"
     },
     {
         "Retail Line": "Co-op Gro Dark Chocolate Cookie 4S",
-        "Forecast Qty": 1,
-        "Shelf Life (Days)": 6,
-        "Oven Setting": "Defrost*"
+        "Shelf Life": "6 Day",
+        "Oven Setting": "Defrost"
     },
     {
         "Retail Line": "Co-op Jam Ball Doughnut 4PACK",
-        "Forecast Qty": 1,
-        "Shelf Life (Days)": 2,
+        "Shelf Life": "2 Day",
         "Oven Setting": 6
     },
     {
         "Retail Line": "Co-op Custard Ball Doughnuts 4PACK",
-        "Forecast Qty": 1,
-        "Shelf Life (Days)": 2,
+        "Shelf Life": "2 Day",
         "Oven Setting": 6
     },
     {
         "Retail Line": "Co-op Pain Au Chocolate NOS EACH",
-        "Forecast Qty": 5,
-        "Shelf Life (Days)": 2,
-        "Oven Setting": 6
+        "Shelf Life": "1 Day",
+        "Oven Setting": 10
     },
     {
         "Retail Line": "Co-op Irresistible All Butter Croissant NOS EACH",
-        "Forecast Qty": 10,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 10
     },
     {
         "Retail Line": "Co-op Hazelnut Croissant NOS EACH",
-        "Forecast Qty": 7,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 10
     },
     {
         "Retail Line": "Co-op White Crusty Batched Rolls NOS EACH",
-        "Forecast Qty": 4,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 44
     },
     {
         "Retail Line": "Co-op White Rustic Roll NOS EACH",
-        "Forecast Qty": 2,
-        "Shelf Life (Days)": 1,
+        "Shelf Life": "1 Day",
         "Oven Setting": 44
     },
     {
         "Retail Line": "Co-op Comp Sausage Breakfast Roll EACH",
-        "Forecast Qty": 2,
-        "Oven Setting": "09",
-        "Shelf Life": "03"
+        "Shelf Life": "03 Hrs",
+        "Oven Setting": 9
     },
     {
         "Retail Line": "Rollover Breakfast Muffin EACH",
-        "Forecast Qty": 1,
-        "Oven Setting": "14",
-        "Shelf Life": "04"
+        "Shelf Life": "04 Hrs",
+        "Oven Setting": 14
     },
     {
         "Retail Line": "Co-op Sausage & Bean Slice EACH",
-        "Forecast Qty": 1,
-        "Oven Setting": "51",
-        "Shelf Life": "04"
+        "Shelf Life": "04 Hrs",
+        "Oven Setting": 51
     },
     {
         "Retail Line": "Co-op Sausage Roll EACH",
-        "Forecast Qty": 2,
-        "Oven Setting": "51",
-        "Shelf Life": "03"
+        "Shelf Life": "04 Hrs",
+        "Oven Setting": 51
     },
     {
         "Retail Line": "Co-op Bacon & Cheese Turnover EACH",
-        "Forecast Qty": 3,
-        "Oven Setting": "51",
-        "Shelf Life": "04"
+        "Shelf Life": "04 Hrs",
+        "Oven Setting": 51
     },
     {
         "Retail Line": "Co-op Breakfast Wrap EACH",
-        "Forecast Qty": 1,
-        "Oven Setting": "72",
-        "Shelf Life": "03"
+        "Shelf Life": "03 Hrs",
+        "Oven Setting": 72
     },
     {
         "Retail Line": "Co-op Sausage Egg and Cheese Muffin EACH",
-        "Forecast Qty": 1,
-        "Oven Setting": "72",
-        "Shelf Life": "03"
+        "Shelf Life": "03 Hrs",
+        "Oven Setting": 72
     },
     {
         "Retail Line": "Co-op Hash Browns EACH",
-        "Forecast Qty": 1,
-        "Oven Setting": "74",
-        "Shelf Life": "04"
+        "Shelf Life": "04 Hrs",
+        "Oven Setting": 74
     },
     {
         "Retail Line": "Rollover Classic Hot Dog 90G",
-        "Forecast Qty": 1,
-        "Oven Setting": "Bain-Marie",
-        "Shelf Life": "04"
+        "Shelf Life": "04 Hrs",
+        "Oven Setting": "Bain-Marie"
     },
     {
         "Retail Line": "Rollover Breakfast Hot Dog 95G",
-        "Forecast Qty": 1,
-        "Oven Setting": "Bain-Marie",
-        "Shelf Life": "04"
+        "Shelf Life": "04 Hrs",
+        "Oven Setting": "Bain-Marie"
     },
     {
         "Retail Line": "Rollover Chicken Nuggets EACH",
-        "Forecast Qty": 2,
-        "Oven Setting": "08",
-        "Shelf Life": "02"
+        "Shelf Life": "02 Hrs",
+        "Oven Setting": 8
     },
     {
         "Retail Line": "Chicago Town Takeaway Pepperoni Stuffed Crust EACH",
-        "Forecast Qty": 2,
-        "Oven Setting": "09",
-        "Shelf Life": "04"
+        "Shelf Life": "04 Hrs",
+        "Oven Setting": 9
     },
     {
         "Retail Line": "Rollover Southern Fried Chicken Burger EACH",
-        "Forecast Qty": 2,
-        "Oven Setting": "10",
-        "Shelf Life": "04"
+        "Shelf Life": "04 Hrs",
+        "Oven Setting": 10
     },
     {
         "Retail Line": "Co-op Cheese & Onion Slice EACH",
-        "Forecast Qty": 2,
-        "Oven Setting": "51",
-        "Shelf Life": "04"
+        "Shelf Life": "04 Hrs",
+        "Oven Setting": 51
     },
     {
         "Retail Line": "Co-op Sausage & Bean Slice EACH",
-        "Forecast Qty": 2,
-        "Oven Setting": "51",
-        "Shelf Life": "04"
+        "Shelf Life": "04 Hrs",
+        "Oven Setting": 51
     },
     {
         "Retail Line": "Co-op Steak Slice EACH",
-        "Forecast Qty": 2,
-        "Oven Setting": "51",
-        "Shelf Life": "04"
+        "Shelf Life": "04 Hrs",
+        "Oven Setting": 51
     },
     {
         "Retail Line": "Co-op Sausage Roll EACH",
-        "Forecast Qty": 2,
-        "Oven Setting": "51",
-        "Shelf Life": "04"
+        "Shelf Life": "04 Hrs",
+        "Oven Setting": 51
     },
     {
         "Retail Line": "Co-op Bacon & Cheese Turnover EACH",
-        "Forecast Qty": 2,
-        "Oven Setting": "51",
-        "Shelf Life": "04"
+        "Shelf Life": "04 Hrs",
+        "Oven Setting": 51
     },
     {
         "Retail Line": "Co-op Festive Slice EACH",
-        "Forecast Qty": 4,
-        "Oven Setting": "51",
-        "Shelf Life": "04"
+        "Shelf Life": "04 Hrs",
+        "Oven Setting": 51
     },
     {
         "Retail Line": "Co-op Chicken and Chorizo Slice EACH",
-        "Forecast Qty": 2,
-        "Oven Setting": "72",
-        "Shelf Life": "03"
+        "Shelf Life": "04 Hrs",
+        "Oven Setting": 51
     },
     {
         "Retail Line": "Co-op Ham and Cheese Toastie EACH",
-        "Forecast Qty": 1,
-        "Oven Setting": "72",
-        "Shelf Life": "03"
+        "Shelf Life": "03 Hrs",
+        "Oven Setting": 72
     },
     {
         "Retail Line": "Co-op Chicken Fajita Wrap EACH",
-        "Forecast Qty": 1,
-        "Oven Setting": "72",
-        "Shelf Life": "03"
+        "Shelf Life": "03 Hrs",
+        "Oven Setting": 72
     },
     {
         "Retail Line": "WC Rowes Cornish Pasty EACH",
-        "Forecast Qty": 2,
-        "Oven Setting": "74",
-        "Shelf Life": "04"
+        "Shelf Life": "04 Hrs",
+        "Oven Setting": 72
     },
     {
         "Retail Line": "Co-op Mini Vegetable Samosas 23G",
-        "Forecast Qty": 2,
-        "Oven Setting": "74",
-        "Shelf Life": "04"
+        "Shelf Life": "03 Hrs",
+        "Oven Setting": 74
     },
     {
         "Retail Line": "Co-op Potato Wedges EACH",
-        "Forecast Qty": 2,
-        "Oven Setting": "74",
-        "Shelf Life": "04"
+        "Shelf Life": "03 Hrs",
+        "Oven Setting": 74
     },
     {
         "Retail Line": "Co-op Southern Fried Goujons EACH",
-        "Forecast Qty": 2,
-        "Oven Setting": "Bain-Marie",
-        "Shelf Life": "04"
+        "Shelf Life": "04 Hrs",
+        "Oven Setting": 74
     },
     {
         "Retail Line": "Rollover Classic Hot Dog 90G",
-        "Forecast Qty": 2,
-        "Oven Setting": "Bain-Marie",
-        "Shelf Life": "04"
+        "Shelf Life": "04 Hrs",
+        "Oven Setting": "Bain-Marie"
     },
     {
         "Retail Line": "Rollover Cheeseburger EACH",
-        "Forecast Qty": 2,
-        "Oven Setting": "Bain-Marie",
-        "Shelf Life": "04"
+        "Shelf Life": "04 Hrs",
+        "Oven Setting": "Bain-Marie"
     }
 ]
