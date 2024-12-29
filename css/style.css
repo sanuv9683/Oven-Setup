@@ -1,10 +1,23 @@
 body {
-    background-color: #f8f9fa;
+    background-color: #f9f9f9;
 }
-h1 {
-    font-family: 'Arial', sans-serif;
-    color: #333;
+table {
+    margin-top: 5px;
 }
-.table {
-    font-size: 14px;
+/* Scrollbar Styles */
+.table-container::-webkit-scrollbar {
+    width: 0px; /* Width of the scrollbar */
+}
+.table-container::-webkit-scrollbar-thumb {
+    background: linear-gradient(45deg, #007bff, #6610f2); /* Scrollbar thumb color */
+    border-radius: 0px; /* Roundness */
+}
+.table-container::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(45deg, #0056b3, #520dc2); /* Hover color */
+}
+.table-container::-webkit-scrollbar-track {
+    background: #f8f9fa; /* Scrollbar track color */
+}
+.table-container{
+    max-height: 100vh;
 }
